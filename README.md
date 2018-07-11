@@ -7,6 +7,6 @@ Technologies: Solidity, Etherum Blockchain, Infura
 
 https://cryptozombies.io/
 
-![Crypt](crypt.png)
+![Crypt](crypt.jpg)
 
 Link:  https://cryptozombies.netlify.com
